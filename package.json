@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL=./ react-scripts build",
+    "build": "cross-env PUBLIC_URL=./ react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

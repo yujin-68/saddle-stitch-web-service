@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/saddle-stitch-web-service/static/js/main.4b7f5c77.js",
-    "index.html": "/saddle-stitch-web-service/index.html",
-    "main.4b7f5c77.js.map": "/saddle-stitch-web-service/static/js/main.4b7f5c77.js.map"
+    "main.js": "./static/js/main.4b7f5c77.js",
+    "index.html": "./index.html",
+    "main.4b7f5c77.js.map": "./static/js/main.4b7f5c77.js.map"
   },
   "entrypoints": [
     "static/js/main.4b7f5c77.js"
